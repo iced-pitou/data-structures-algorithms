@@ -32,6 +32,7 @@
 |                      | 121. Best Time to Buy and Sell Stock    | Compound the difference between `insant sell` and `overall profit` |
 |                      | 125. Valid Palindrome                   |                                                                    |
 |                      | 169. Majority Element                   |                                                                    |
+|                      | 171. Excel Sheet Column Number          |                                                                    |
 |                      | 498. Diagonal Traverse                  |                                                                    |
 
 <br />
